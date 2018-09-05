@@ -8,6 +8,8 @@
                                                                                   \ \____/
                                                                                    \/___/
 
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https%3A%2F%2Fgithub.com%2Fmboshernitsan%2Funderscore&page=editor&open_in_editor=underscore.js)
+
 Underscore.js is a utility-belt library for JavaScript that provides
 support for the usual functional suspects (each, map, reduce, filter...)
 without extending any core JavaScript objects.
